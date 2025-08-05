@@ -2,4 +2,3 @@ streamlit
 pandas
 numpy
 matplotlib
-onnxruntime==1.13.1
